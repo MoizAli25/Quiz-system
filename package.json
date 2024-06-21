@@ -1,6 +1,6 @@
 {
   "name": "ma2-al5-quiz-system",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This a cli based quiz system",
   "main": "index.js",
   "type": "module",

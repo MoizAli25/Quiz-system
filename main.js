@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.yellow("\n Welcome to Moiz Ali Quiz-system \n"));
